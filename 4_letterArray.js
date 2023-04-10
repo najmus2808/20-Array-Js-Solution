@@ -1,4 +1,4 @@
-// Problem-4: Given an array of strings, create the new array with the first letter of each string.
+// Problem-4: Given an array of strings, create a new array with the first letter of each string.
 
 function generateLetterArray(array, position = 0) {
     let letterArray = [];
