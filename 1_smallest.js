@@ -10,5 +10,5 @@ function findSmallestNumber(array) {
     return smallestNumber;
 }
 
-const array = [4, 2, 7, 1, 8];
-console.log(findSmallestNumber(array));
+const numbers = [4, 2, 7, 1, 8];
+console.log(findSmallestNumber(numbers));
