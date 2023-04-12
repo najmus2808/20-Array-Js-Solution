@@ -1,4 +1,4 @@
-// Problem-14: A weather app needs to format a list of temperatures Celsius and Fahrenheit display.
+// Problem-14: A video sharing site needs to keep track of the number of views, likes and comments on each video.
 
 const videos = [
   {
