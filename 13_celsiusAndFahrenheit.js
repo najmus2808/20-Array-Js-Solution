@@ -1,4 +1,4 @@
-// Problem-12: A weather app needs to format a list of temperatures Celsius and Fahrenheit display.
+// Problem-13: A weather app needs to format a list of temperatures Celsius and Fahrenheit display.
 
 const temperatures = [12, 25, 8, 19, 3];
 const formattedTemperatures = temperatures.map((temperature) => {
